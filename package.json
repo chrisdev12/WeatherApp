@@ -1,0 +1,29 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Get actuall weather info and forecast  through google api and open Weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdev12/WeatherApp.git"
+  },
+  "keywords": [
+    "Weather",
+    "API",
+    "OpenWeather"
+  ],
+  "author": "chrisdev12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdev12/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/chrisdev12/WeatherApp#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
